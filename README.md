@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi there 👋 I'm Sara!
 
-<!--
-**sarabeltramini/sarabeltramini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello! I’m Sara Beltramini, a results-driven data analyst with a passion for transforming data into actionable insights. My background in marketing and business administration has equipped me with the skills to deliver exceptional results across diverse industries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on frontend development projects
+
+🌱 I’m currently learning more about Microsoft Power BI
+
+🏡 I'm currently living in Verona, Italy
+
+📧 [sa.beltramini@gmail.com](mailto:sa.beltramini@gmail.com)  
+
+In this repository, you'll find a collection of my dashboard projects using tools like Qlik Sense, Tableau, and PowerBI, showcasing my ability to drive strategic decisions through data.
+
+
+
+## Skills and Tools
+
+- **Data Visualization:** 📊 QlikView/Sense, Tableau, PowerBI, SAS Viya
+- **Data Manipulation:** 🛠️ SQL, DBT, Alteryx
+- **Web & Marketing Analytics:** 🌐 Google Analytics, Hotjar, WordPress, Google Tag Manager
+- **Project Management:** 📋 Jira, Confluence
+- **Other Tools:** 🧰 iConnect, Excel
+
+- **Certifications:** 🏅 Exploring Data with Looker, Build LookML Objects in Looker, Hands-On Essentials: Data Warehousing Workshop (Snowflake), Alteryx Designer Core
+
+## Languages
+
+- **Italian:** Native
+- **English:** Fluent
+- **Spanish & German:** Basic
+
+## Let's Connect
+
+I’m always open to new opportunities and collaborations. Reach out via 📧 [email](mailto:sa.beltramini@gmail.com) or connect on 🔗 [LinkedIn](https://www.linkedin.com/in/sarabeltramini/).
+
+Thank you for visiting my GitHub. I hope you find my projects insightful. Looking forward to connecting with you! 😊
