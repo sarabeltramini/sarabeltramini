@@ -3,7 +3,7 @@
 
 Hello! I’m Sara Beltramini, a results-driven data analyst with a passion for transforming data into actionable insights. My background in marketing and business administration has equipped me with the skills to deliver exceptional results across diverse industries.
 
-🔭 I’m currently working on frontend development projects
+🔭 I’m currently working on frontend and backend development projects, being a lead engineer working with a Global Pharma Company, EMEA Commercial Sector
 
 🌱 I’m currently learning more about Microsoft Power BI
 
