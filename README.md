@@ -7,7 +7,7 @@ Hello! I’m Sara Beltramini, a results-driven data analyst with a passion for t
 
 🌱 I’m currently learning more about Microsoft Power BI
 
-🏡 I'm currently living in Verona, Italy
+🏡 I'm currently living in Barcelona, Spain
 
 📧 [sa.beltramini@gmail.com](mailto:sa.beltramini@gmail.com)  
 
