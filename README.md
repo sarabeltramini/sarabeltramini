@@ -29,7 +29,8 @@ In this repository, you'll find a collection of my dashboard projects using tool
 
 - **Italian:** Native
 - **English:** Fluent
-- **Spanish & German:** Basic
+- **Spanish:** Intermediate
+- **German:** Basic
 
 ## Let's Connect
 
